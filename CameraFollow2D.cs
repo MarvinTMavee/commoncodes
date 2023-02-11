@@ -2,6 +2,15 @@ using UnityEngine;
 
 public class CameraFollow2D : MonoBehaviour
 {
+
+/*
+* This code follows the player very smoothly, and moves quicker when the player is near to leaving the camera area
+* 
+* HOW TO (very simple):
+* 1. Add this script as component to your camera
+* 2. Drag the Player as Transform to the component
+* 3. Mess around with the values ;)
+*/
     // The transform component of the object to follow
     public Transform target;
 
