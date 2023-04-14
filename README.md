@@ -4,4 +4,4 @@
  [![Amount](https://img.shields.io/badge/Amount-2-green.svg)](https://GitHub.com/MarvinTMavee/commoncodes/graphs/commit-activity)
 
 Here you'll find a list of basic C# code snippets often used in game development. Feel free to use them in your project.<br><br>
-If you want to contribute your code snippets, feel free to create an issue with the <img src="https://maevedev.com/ico/new-snippet.png"> tag.
+If you want to contribute your code snippets, feel free to make a pull request.
